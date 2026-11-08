@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/cohere-go/commit/63f3b3809b9772ad1421b0fc445a01016af3b879",
       "git:hexsha": "63f3b3809b9772ad1421b0fc445a01016af3b879",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.20.1"
     },
     {
